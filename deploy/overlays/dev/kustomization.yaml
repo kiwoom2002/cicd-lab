@@ -11,4 +11,4 @@ images:
   newTag: jenkins-22
 - name: todo-web
   newName: ghcr.io/kiwoom2002/cicd-lab/web
-  newTag: main
+  newTag: 8c5c43045dd6ab1d21727dd57dc1dd3e30f1819d
