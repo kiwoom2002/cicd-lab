@@ -8,7 +8,7 @@ resources:
 images:
 - name: todo-api
   newName: ghcr.io/kiwoom2002/cicd-lab/api
-  newTag: jenkins-24
+  newTag: jenkins-31
 - name: todo-web
   newName: ghcr.io/kiwoom2002/cicd-lab/web
   newTag: be04b0ef1b43965c60a9cd6395e7e53312021fbb
